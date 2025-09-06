@@ -1,4 +1,4 @@
 # Rajuyadavnewproject
 <br>
-Author- RAJU YADAV
-DURGA JHA
+Author- RAJU 
+DURGA
